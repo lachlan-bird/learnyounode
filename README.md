@@ -1,2 +1,2 @@
 # learnyounode
-Learnyounode tutorial program
+Solutions to all exercises in the Learnyounode tutorial program. 
